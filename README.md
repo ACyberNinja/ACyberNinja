@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Campbell
-- 👀 I’m passionate about problem solving and troubleshooting
+- 👀 I like troubleshooting and problem solving
 - 🌱 I’m currently learning Networking in IT
 - 🔧 Skills: Windows Server, Microsoft Azure, Cisco Switches/Routers
 - 📘 Languages: English
