@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh Campbell
 - 👀 I like troubleshooting and problem solving
-- 🌱 I’m currently learning Networking in IT
+- 🌱 I’m currently learning Network Engineering in Information Technology at WINTEC
 - 🔧 Skills: Windows Server, Microsoft Azure, Cisco Switches/Routers
 - 📘 Languages: English
 - 📫 You can reach me using joscam19@student.wintec.ac.nz
